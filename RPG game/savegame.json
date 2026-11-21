@@ -1,0 +1,33 @@
+{
+  "name": "vishnu",
+  "class_name": "Warrior",
+  "level": 1,
+  "exp": 25,
+  "base_max_hp": 150,
+  "base_max_mana": 40,
+  "hp": 144,
+  "mana": 40,
+  "base_attack": 16,
+  "base_defense": 10,
+  "base_crit": 5,
+  "crit_damage": 1.5,
+  "gold": 111,
+  "weapon": "Wooden Sword",
+  "armor": "Cloth Tunic",
+  "weapons": [],
+  "armors": [],
+  "potions": {
+    "Small Health Potion": 3,
+    "Small Mana Potion": 1
+  },
+  "materials": {},
+  "quest_items": [],
+  "bosses_defeated": 0,
+  "enemies_defeated": 1,
+  "region": 0,
+  "play_time": 9.251172304153442,
+  "weapons_collected": [
+    "Wooden Sword"
+  ],
+  "rare_items": []
+}
